@@ -67,7 +67,6 @@ The **Loan Analysis Dashboard** provides critical insights into loan disbursemen
 
 ## Technologies Used  
 - **Power BI** – Data Visualization & Dashboarding  
-- **Python** – Data Cleaning & Analysis (Pandas, Matplotlib)  
 - **SQL** – Data Extraction & Transformation  
 - **Excel** – Initial Data Processing & Exploratory Analysis  
 
@@ -78,7 +77,7 @@ The **Loan Analysis Dashboard** provides critical insights into loan disbursemen
 Interested in collaborating on **data analytics, financial modeling, or AI-driven insights**? Let’s connect!  
 
 - **Email**: [akinolamofe2@gmail.com](mailto:akinolamofe2@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/moferanoluwa-akinola](#)  
-- **GitHub**: [github.com/moferanoluwa](#)  
+- **LinkedIn**: [www.linkedin.com/in/mofe-akinola-6a8934160](#)  
+- **GitHub**: [https://github.com/Mofeeakin](#)  
 
 ---
