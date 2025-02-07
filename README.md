@@ -6,6 +6,7 @@ The **Loan Analysis Dashboard** provides an in-depth analysis of loan disburseme
 
 This dashboard, developed in **Power BI**, provides a detailed view of loan disbursement, recovery rates, outstanding balances, and overpayments across different branches and loan officers. It is designed to help the institution track loan performance, identify areas for improvement, and optimise lending strategies.
 
+![Energy Dashboard.png](https://github.com/Mofeeakin/Loan-Analysis/blob/8193ecb6112076e538a64b3fa53e6caa21bc3294/Loan%20Analysis%20Dashboard.png)
 ---
 
 ## Key Metrics  
