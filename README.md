@@ -1,10 +1,10 @@
 # Loan Disbursement Analysis
 
 ## Overview  
-The **Loan Analysis Dashboard** provides an in-depth analysis of loan disbursement, recovery rates, outstanding balances, and overpayments across different branches, loan officers, and frequency of disbursements. The goal is to help financial institutions track loan performance, identify areas for improvement, and optimise their lending strategies.
+The **Loan Analysis Dashboard** provides an in-depth analysis of loan disbursement, recovery rates, outstanding balances, and overpayments across different branches, loan officers, and frequency of disbursements. The goal was to track loan performance, identify areas for improvement, and optimise their lending strategies.
 
 
-This dashboard, developed in **Power BI**, provides a detailed view of loan disbursement, recovery rates, outstanding balances, and overpayments across different branches and loan officers. It is designed to help the institution track loan performance, identify areas for improvement, and optimise lending strategies.
+This dashboard, developed in **Power BI**, provides a detailed view of loan disbursement, recovery rates, outstanding balances, and overpayments across different branches and loan officers.
 
 ![Loan Dashboard.png](https://github.com/Mofeeakin/Loan-Analysis/blob/8193ecb6112076e538a64b3fa53e6caa21bc3294/Loan%20Analysis%20Dashboard.png)
 ---
@@ -49,7 +49,7 @@ This dashboard, developed in **Power BI**, provides a detailed view of loan disb
 
  **Optimizing Loan Frequency:** Weekly repayments show better recovery rates than monthly ones. Encouraging more frequent repayment schedules could enhance cash flow and reduce defaults.  
 
- **Branch-Level Interventions:** Branches with lower recovery rates should be supported with **additional training, data-driven insights, and alternative collection strategies**.  
+ **Branch-Level Interventions:** Branches with lower recovery rates should be supported with additional training, data-driven insights, and alternative collection strategies.  
 
  **Handling Overpayments:** The **₦2.43M overpaid amount** should be **refunded or credited toward future loans** to maintain customer trust and satisfaction.  
 
@@ -57,7 +57,7 @@ This dashboard, developed in **Power BI**, provides a detailed view of loan disb
 
 ## Conclusion  
 
-The **Loan Analysis Dashboard** provides critical insights into loan disbursement, recovery, and outstanding balances. With targeted improvements in **loan collection, customer monitoring, and branch-level strategies**, financial institutions can optimise their lending operations, minimise defaults, and enhance profitability.  
+The **Loan Analysis Dashboard** provides critical insights into loan disbursement, recovery, and outstanding balances. With targeted improvements in **loan collection, customer monitoring, and branch-level strategies**, to optimise their lending operations, minimise defaults, and enhance profitability.  
 
 **Future Enhancements:**  
 - Integrate **predictive modeling** to forecast default risks.  
