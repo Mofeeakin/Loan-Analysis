@@ -1,4 +1,4 @@
-# Loan Disbursement Analysis Dashboard  
+# Loan Disbursement Analysis
 
 ## Overview  
 The **Loan Analysis Dashboard** provides an in-depth analysis of loan disbursement, recovery rates, outstanding balances, and overpayments across different branches, loan officers, and frequency of disbursements. The goal is to help financial institutions track loan performance, identify areas for improvement, and optimise their lending strategies.
